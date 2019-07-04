@@ -76,7 +76,7 @@ query samsungdb sstable -f tabular -e presto -c 'firstname,lastname' -m 14273471
 
 You are able to build the .exe file with your updates.
 ```
-$ git clone https://github.com/treasure-data/td-client-java.git
+$ git clone https://github.com/nghiah/query.git
 $ cd query
 $ mvn package
 ```
